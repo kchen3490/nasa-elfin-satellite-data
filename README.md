@@ -1,4 +1,4 @@
-# elf-getspec-ratio routine
+# NASA ELFINE routine
 
 ### How to use 🤔
 This single-use utility program/IDL routine produces energy-time spectrograms, specifically a ratio of precipitating over perpendicular, from the ELFIN mission.
